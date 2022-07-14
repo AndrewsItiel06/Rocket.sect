@@ -7,8 +7,6 @@ A marketing page for a monitoring service called Rocket.sect, applying *Flexbox*
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ## Preview
-  ### Mobile
-![image](https://user-images.githubusercontent.com/86017907/179031450-773ac69d-780f-485c-8ed4-2d93c8e27a09.png)
-![image](https://user-images.githubusercontent.com/86017907/179034195-5b76e6cb-53be-491e-b042-cfcd8f5b5bab.png)
-   ### Desktop
-![image](https://user-images.githubusercontent.com/86017907/179034755-3993570b-09cf-4bab-a9db-f3f24ac9cf
+  ![image](https://user-images.githubusercontent.com/86017907/179056526-5c2d28e8-8d20-4bae-964f-e1f6d9c5b9c7.png)
+
+**P.s: Non-functional menu**
