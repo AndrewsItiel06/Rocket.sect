@@ -10,3 +10,5 @@ A marketing page for a monitoring service called Rocket.sect, applying *Flexbox*
   ![image](https://user-images.githubusercontent.com/86017907/179056526-5c2d28e8-8d20-4bae-964f-e1f6d9c5b9c7.png)
 
 **P.s: Non-functional menu**
+
+![image](https://user-images.githubusercontent.com/86017907/179059437-a4e49a2f-7ce6-4ebc-8f8f-b24221ceb6cc.png)
