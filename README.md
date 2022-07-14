@@ -11,4 +11,4 @@ A marketing page for a monitoring service called Rocket.sect, applying *Flexbox*
 
 **P.s: Non-functional menu**
 
-[![image](https://user-images.githubusercontent.com/86017907/179060688-590eac0e-1195-4bad-80d3-8c848b0af5e2.png)](https://github.com/AndrewsItiel06/rocket.sect/blob/main/LICENSE)
+[![image](https://user-images.githubusercontent.com/86017907/179060688-590eac0e-1195-4bad-80d3-8c848b0af5e2.png)](https://github.com/AndrewsItiel06/rocket.sect/blob/master/LICENSE)
