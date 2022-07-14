@@ -1,4 +1,4 @@
-# Rocket.sec
+# Rocket.sect
 
 A marketing page for a monitoring service called Rocket.sect, applying *Flexbox* concepts.
 
